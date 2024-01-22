@@ -1,0 +1,17 @@
+{
+    "name": "ngodat/demo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ngodat\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DATDK009",
+            "email": "datntph39527@fpt.edu.vn"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
